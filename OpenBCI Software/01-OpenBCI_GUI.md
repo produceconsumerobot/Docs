@@ -230,7 +230,9 @@ folder. If there is no folder called `libraries` in that location, go ahead and 
 
 There is a piece of software which is necessary to make the connection between the GUI and your computer's Bluetooth hardware.
 We call this the OpenBCI Electron Hub. Go to our github repository for the [Hub](https://github.com/OpenBCI/OpenBCI_Ganglion_Electron/releases/latest), and click on the link for your Operating System.  
+
 ![electron hub download](../assets/images/hub-download.png)
+
 ![electron hub download](../assets/images/ganglion_hub-download.png)
 
 After it downloads and unpacks itself, your Downloads folder will look like this. the `Ganglion Hub app` needs to be inside your sketch folder, in a specific place.  
