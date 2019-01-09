@@ -237,7 +237,7 @@ After it downloads and unpacks itself, your Downloads folder will look like this
 
 ![Hub Home](../assets/images/ganglion_hub-home.png)
 
-Move the `Ganglion Hubb app` from your Downloads folder to:
+Move the `Ganglion Hub app` from your Downloads folder to:
 
 `Users/<user-name>/Documents/Processing/OpenBCI_GUI/OpenBCI_GUI/data`
 
